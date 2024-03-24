@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm student and i live in Ukraine. I create programs for studying and for individual using.
 
 <!--
 **Uns0lved/Uns0lved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
